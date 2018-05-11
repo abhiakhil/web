@@ -1,0 +1,28 @@
+.text-blue
+	{
+		color:red ;
+		font-family:cursive;
+		background-color: pink ;
+		backface-visibility: blue;
+	}	
+	p
+	{
+		color:#ffffff ;
+		font-family: cursive;
+		size: 100;
+	}
+	.green-akhil
+	{
+		width: 200px;
+		height: 200px;
+		box-shadow:  20px 20px 20px green;
+		border-radius: 720px;
+	}
+	.bg
+	{
+		background-image:url("mahi.png");
+		
+	}
+	.back{
+		font-size: 100px;
+	}

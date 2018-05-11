@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script>
+		function makeLine(length){
+			var line="";
+			for(var j=1;j<=length;j++){
+				line+="*";
+			}
+			return line+ "\n";
+		}
+		function buildTriangle(height){
+			for(var i=1;i<=height;i++){
+				console.log(makeLine(i)+"\n");
+		}
+		}
+</script>
+</head>
+<body>
+
+</body>
+</html>
